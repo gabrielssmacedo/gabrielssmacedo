@@ -8,8 +8,8 @@ Seja bem vindo ao meu perfil !
 ![](https://github-readme-stats.vercel.app/api?username=gabrielssmacedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ##
 <div style="display: inline_block"><br>
-	<img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-	<img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img align="center" alt="Gabriel-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+	<img align="center" alt="Gabriel-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 
